@@ -1,0 +1,28 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Harring
+    probability: 1
+  - name: Ffgtfgh
+    probability: 1
+  - name: Foxy
+    probability: 1
+  - name: Prinkley
+    probability: 1
+  - name: Henwing
+    probability: 1
+  - name: Fredrick
+    probability: 1
+- names:
+  - name: ton
+    probability: 1
+  - name: ston
+    probability: 1
+  - name: ville
+    probability: 1
+  - name: land
+    probability: 1
+name: 'New Townname #0'
+source: null
+subsets: []
